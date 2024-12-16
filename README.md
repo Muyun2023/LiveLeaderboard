@@ -25,7 +25,7 @@ Access the live project here: **[Live Leaderboard](https://liveleaderboard-235f3
 
 Here is a screenshot of the Live Leaderboard in action:
 
-![Demo Screenshot](demo.png)
+![Demo Screenshot](public/demo.png)
 
 ---
 
