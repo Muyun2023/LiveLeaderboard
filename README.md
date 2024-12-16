@@ -17,7 +17,7 @@ Live Leaderboard is a real-time web application that allows users to join a comp
 
 ## Live Demo
 
-Access the live project here: **[Live Leaderboard](https://your-project-id.web.app)**
+Access the live project here: **[Live Leaderboard](https://liveleaderboard-235f3.web.app)**
 
 ---
 
@@ -28,13 +28,3 @@ Access the live project here: **[Live Leaderboard](https://your-project-id.web.a
 - **Hosting**: Firebase Hosting
 
 ---
-
-## Project Setup
-
-Follow these steps to set up the project locally and deploy it:
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/your-username/LiveLeaderboard.git
-cd LiveLeaderboard
