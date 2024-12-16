@@ -21,6 +21,14 @@ Access the live project here: **[Live Leaderboard](https://liveleaderboard-235f3
 
 ---
 
+## Demo Screenshot
+
+Here is a screenshot of the Live Leaderboard in action:
+
+![Demo Screenshot](demo.png)
+
+---
+
 ## Technologies Used
 
 - **Frontend**: HTML, CSS, JavaScript
