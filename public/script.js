@@ -3,7 +3,7 @@ import { getDatabase, ref, onValue, push, set, update } from "https://www.gstati
 
 // Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCH5YoZens7b_wIAfmSSK8GK0abeqfhVUM",
+  apiKey: "",
   authDomain: "liveleaderboard-235f3.firebaseapp.com",
   databaseURL: "https://liveleaderboard-235f3-default-rtdb.firebaseio.com",
   projectId: "liveleaderboard-235f3",
